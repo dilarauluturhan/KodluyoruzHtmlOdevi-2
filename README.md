@@ -4,5 +4,5 @@
 
 Kodluyoruz Front-end Eğitimi kapsamında hazırladığım HTML ödevidir.
 
-[patika]
+Patika
 (https://www.patika.dev/tr)
